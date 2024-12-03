@@ -57,7 +57,8 @@ Execute the programs and publish them.
 
 ## OUTPUT
 ![alt text](image-1.png)
-![alt text](image-2.png)
+![Screenshot (16)](https://github.com/user-attachments/assets/61e97f76-83e6-44bf-9721-09bcb5f431c5)
+
 ![alt text](image-3.png)
 ![alt text](image-4.png)
 ![alt text](image-5.png)
