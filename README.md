@@ -27,6 +27,7 @@ Execute the programs and publish them.
 ## CODE
 
 ```
+**map.html**
 <html>
 <head>
 <title>My City</title>
@@ -51,6 +52,171 @@ Execute the programs and publish them.
     <area target="" alt="Msk Diamond Mahal" title="Msk Diamond Mahal" href="mahal.html" coords="771,338,1074,404" shape="rect">
 </map>
 </center>
+</body>
+</html>
+
+**clg.html**
+
+<html>
+<head>
+    <title>Murugappa Polytechnic</title>
+    <style>
+        body {
+            background-color: #f0f8ff;
+            font-family: Arial, sans-serif;
+            color: #333;
+        }
+        h1 {
+            text-align: center;
+            color: #004080;
+            background-color: #e0f7fa;
+            padding: 20px;
+            margin: 0;
+        }
+        p {
+            text-align: justify;
+            margin: 20px 50px;
+            font-size: 22px;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Murugappa Polytechnic</h1>
+
+    <p>Murugappa Polytechnic is one of the leading technical educational institutions in the region. Established to offer quality education and skill development in engineering and technology, it provides various diploma courses in fields such as mechanical, electrical, and civil engineering. The polytechnic is well-equipped with modern infrastructure and labs, offering students a hands-on learning experience.</p>
+
+</body>
+</html>
+**temp.html**
+
+<html>
+<head>
+    <title>Pachaiamman Temple, Thirumullaivoyal</title>
+    <style>
+        body {
+            background-color: #e8f5e9;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            color: #424242;
+        }
+        h1 {
+            text-align: center;
+            color: #388e3c;
+            background-color: #c8e6c9;
+            padding: 20px;
+            margin: 0;
+        }
+        p {
+            text-align: justify;
+            margin: 20px 50px;
+            font-size: 16px;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Pachaiamman Temple, Thirumullaivoyal</h1>
+
+    <p>Pachaiamman Temple, located in Thirumullaivoyal, Chennai, is an ancient and revered temple dedicated to Goddess Pachaiamman. The temple holds great religious significance for the local community and attracts devotees throughout the year. The temple is known for its peaceful ambiance and historic architecture, featuring intricately designed pillars and a serene environment for worship. Devotees visit the temple to seek blessings for prosperity, well-being, and spiritual growth. It is an important cultural landmark in the region and a place for meditation and prayer.</p>
+
+</body>
+</html>
+**park.html**
+
+<html>
+<head>
+    <title>Thangal Park, Ambattur</title>
+    <style>
+        body {
+            background-color: #fff8e1;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            color: #424242;
+        }
+        h1 {
+            text-align: center;
+            color: #2e7d32;
+            background-color: #a5d6a7;
+            padding: 20px;
+            margin: 0;
+        }
+        p {
+            text-align: justify;
+            margin: 20px 50px;
+            font-size: 16px;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Thangal Park, Ambattur</h1>
+
+    <p>Thangal Park, located in Ambattur, is one of the most popular recreational parks in the area. It serves as a serene space for people of all ages to relax, walk, and enjoy nature. The park is well-maintained, featuring walking paths, benches, and greenery, making it a great spot for family outings and fitness enthusiasts alike. With ample space for children to play, it is an ideal destination for those seeking a peaceful escape from the hustle and bustle of the city.</p>
+
+</body>
+</html>
+**vcare.html**
+<html>
+<head>
+    <title>Vcare</title>
+    <style>
+        body {
+            background-color: #f8f9fa; /* Light grey background */
+            font-family: 'Arial', sans-serif;
+            color: #333;
+        }
+        h1 {
+            text-align: center;
+            color: #28a745; /* Green color for the header */
+            background-color: #e9f7e1; /* Light green background */
+            padding: 20px;
+            margin: 0;
+        }
+        p {
+            text-align: justify;
+            margin: 20px 50px;
+            font-size: 22px;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Vcare</h1>
+
+    <p>Vcare is a leading service provider in the healthcare industry, committed to delivering top-quality healthcare solutions. We offer a wide range of services, including personalized care, medical consultations, and wellness programs. With a team of dedicated professionals and state-of-the-art facilities, Vcare ensures a holistic approach to health and well-being.</p>
+
+</body>
+</html>
+**mahal.html**
+
+<html>
+<head>
+    <title>Marriage Mahal</title>
+    <style>
+        body {
+            background-color: #fff0f5; /* Lavender blush background */
+            font-family: 'Arial', sans-serif;
+            color: #333;
+        }
+        h1 {
+            text-align: center;
+            color: #800080; /* Purple color for the header */
+            background-color: #f5e6fa; /* Light purple background */
+            padding: 20px;
+            margin: 0;
+        }
+        p {
+            text-align: justify;
+            margin: 20px 50px;
+            font-size: 22px;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Marriage Mahal</h1>
+
+    <p>Marriage Mahal is a premier venue offering an exquisite setting for weddings and other special occasions. With its spacious halls, luxurious decor, and top-notch amenities, it ensures that every event is memorable. Whether you're planning an intimate ceremony or a grand celebration, Marriage Mahal provides the perfect environment for your most important day.</p>
+
 </body>
 </html>
 ```
